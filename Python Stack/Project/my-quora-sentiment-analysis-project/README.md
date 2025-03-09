@@ -1,0 +1,1 @@
+Developed a Python application that scrapes user reviews from Quora about Rungta College of Engineering and Technology. Utilizing Selenium and BeautifulSoup for web scraping, the application collects qualitative data, which is then analyzed for sentiment using the VADER sentiment analysis tool. 
